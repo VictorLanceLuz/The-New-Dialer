@@ -3,7 +3,7 @@
 //  TheNewDialer
 //
 //  Created by Chaoqun Ding on 2019-10-25.
-//  Edited by Victor LUz on 2019-10-28.
+//  Edited by Victor Luz on 2019-10-28.
 //  Copyright © 2019 Chaoqun Ding. All rights reserved.
 //
 
